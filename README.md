@@ -8,3 +8,5 @@
 - Snippets
 - Formatting
 - Commands
+
+###### This is a fork of <https://github.com/mint-lang/mint-vscode>
